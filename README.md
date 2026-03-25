@@ -41,9 +41,9 @@ The aim is to explore patterns, trends, and insights related to Netflix content 
 
 Netflix-EDA-Project/
 │
-├── Netfilx project (1).ipynb   # Main Jupyter Notebook
-├── dataset.csv                # Dataset file
-├── README.md                  # Project documentation
+├── Netfilx project (1).ipynb   https://github.com/Abhishek-Bhise1606/Netflix-Data-Analysis-using-Python-EDA-Visualization-/blob/main/Netfilx%20project.ipynb
+├── dataset.csv                # Dataset file                    
+├── README.md                  # Project documentation                                  
 
 ---
 
